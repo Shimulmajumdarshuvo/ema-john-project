@@ -8,8 +8,8 @@ function App() {
   return (
     <div className="">
       <Header></Header>
-      <h2 className='text-info'>This is the firs page</h2>
-      
+
+
       <Shop></Shop>
 
     </div>
